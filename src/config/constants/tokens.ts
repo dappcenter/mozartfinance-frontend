@@ -13,9 +13,9 @@ const tokens = {
     projectLink: 'https://mozartfinance.io/',
   },
   piano: {
-    symbol: 'PIANO',
+    symbol: 'DEFIFARMER',
     address: {
-      56: '0xd46936677b2c1bb696f2b67c55239331e2b7cd42',
+      56: '0x9ffca1f32de93ffef2c75c9e5d72ea63a742bafc',
       97: '',
     },
     decimals: 18,
